@@ -2,15 +2,16 @@
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+He is currently pursuing a Ph.D. Degree in Control Science and Engineering, at College of Artificial Intelligence, China University of Petroleum, Beijing, China.
 
 #### Email
-sli[at]cumt.edu.cn
+2021310705@student.cup.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Ph.D., Control Science and Engineering, China University of Petroleum, Beijing, 2021—2025 (expected) .\
+M.Sc., Measuring and Testing Technologies and Instruments, Kunming University of Science and Technology, 2018—2021 .\
+B.Sc., Measurement and Control Technology and Instrument, Beihua University, 2014—2018.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Deep Learning, Parallel computing, Edge intelligence.
 
