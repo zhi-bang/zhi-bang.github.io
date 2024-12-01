@@ -8,4 +8,4 @@ National Key R&D Program: Efficient Scheduling Technology for Heterogeneous Chip
 Role: Project Leader .\
 Responsibilities: .\
 Contributed to the writing of project proposals, mid-term review reports, and mid-term evaluation PPTs. .\
-Conducted research on operator inference acceleration strategies. .\
+Conducted research on operator inference acceleration strategies.
