@@ -1,7 +1,4 @@
 
-
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
 He is currently pursuing a Ph.D. Degree in Control Science and Engineering, at College of Artificial Intelligence, China University of Petroleum, Beijing, China.
 
 #### Email
